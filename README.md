@@ -9,11 +9,11 @@ This project is about a trained _Yolo11n_ model for **vehicle number plate and v
 <table>
   <tr>
     <td style="text-align:center;">
-      <img src="train_batch0.jpg" width="100%"/>
+      <img src="images/train_batch0.jpg" width="100%"/>
       <div><strong>traning</strong></div>
     </td>
     <td style="text-align:center;">
-      <img src="val_batch0_labels.jpg" width="100%"/>
+      <img src="images/val_batch0_labels.jpg" width="100%"/>
       <div><strong>Validation</strong></div>
     </td>
   </tr>
@@ -21,11 +21,11 @@ This project is about a trained _Yolo11n_ model for **vehicle number plate and v
 <table>
   <tr>
     <td style="text-align:center;">
-      <img src="confusion_matrix_normalized.png" width="100%"/>
+      <img src="images/confusion_matrix_normalized.png" width="100%"/>
       <div><strong>Confusion matrix</strong></div>
     </td>
     <td style="text-align:center;">
-      <img src="results.png" width="100%"/>
+      <img src="images/results.png" width="100%"/>
       <div><strong>losses</strong></div>
     </td>
   </tr>
@@ -47,11 +47,11 @@ Dataset Source: [Open Images Dataset – Vehicle Number Plates](https://www.kagg
 <table>
   <tr>
     <td style="text-align:center;">
-      <img src="train_batch1.jpg" width="100%"/>
+      <img src="images/train_batch1.jpg" width="100%"/>
       <div><strong>Training Samples</strong></div>
     </td>
     <td style="text-align:center;">
-      <img src="val_classification.jpg" width="100%"/>
+      <img src="images/val_classification.jpg" width="100%"/>
       <div><strong>Validation Predictions</strong></div>
     </td>
   </tr>
@@ -60,11 +60,11 @@ Dataset Source: [Open Images Dataset – Vehicle Number Plates](https://www.kagg
 <table>
   <tr>
     <td style="text-align:center;">
-      <img src="confusion_matrix_classification.png" width="100%"/>
+      <img src="images/confusion_matrix_classification.png" width="100%"/>
       <div><strong>Confusion Matrix</strong></div>
     </td>
     <td style="text-align:center;">
-      <img src="results_classification.png" width="100%"/>
+      <img src="images/results_classification.png" width="100%"/>
       <div><strong>losses</strong></div>
     </td>
   </tr>
@@ -77,11 +77,11 @@ Dataset Source: [Open Images Dataset – Vehicle Number Plates](https://www.kagg
 <table>
   <tr>
     <td style="text-align:center;">
-      <img src="results3.png" width="100%"/>
+      <img src="images/results3.png" width="100%"/>
       <div><strong></strong></div>
     </td>
     <td style="text-align:center;">
-      <img src="results4.png" width="100%"/>
+      <img src="images/results4.png" width="100%"/>
       <div><strong></strong></div>
     </td>
   </tr>
