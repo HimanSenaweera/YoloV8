@@ -13,7 +13,7 @@ This project is about a trained _Yolo11n_ model for **vehicle number plate and v
       <div><strong>traning</strong></div>
     </td>
     <td style="text-align:center;">
-      <img src="val_batch0_pred.jpg" width="100%"/>
+      <img src="val_batch0_labels.jpg" width="100%"/>
       <div><strong>Validation</strong></div>
     </td>
   </tr>
