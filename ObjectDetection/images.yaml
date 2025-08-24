@@ -1,8 +1,0 @@
-path: "/content/gdrive/My Drive/objectdetection/data" # dataset root dir
-
-train: images/train
-val: images/train
-
-# classes
-names:
-  0: Vehicle_number_plates

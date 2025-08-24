@@ -1,12 +1,9 @@
 # 🚗 Object Detection (YOLO)
 
-This project is about a trained *Yolo11n* model for **vehicle number plate detection** and for this project I downloaded the dataset and annotated it manually.
-
-Dataset Source: [Open Images Dataset – Vehicle Number Plates](https://storage.googleapis.com/openimages/web/visualizer/index.html?type=detection&set=train&c=%2Fm%2F01jfm_)
-
-Annotation Tool: [Computer Vision Annotation Tool](https://www.cvat.ai/)
+This project is about a trained _Yolo11n_ model for **vehicle number plate and vehicle detection** and for this project I downloaded the dataset from **Roboflow**.
 
 ---
+
 ## 👁️ Demo
 
 <table>
@@ -35,10 +32,11 @@ Annotation Tool: [Computer Vision Annotation Tool](https://www.cvat.ai/)
 </table>
 
 ---
+
 # 🖼️ Image Classification (YOLO)
 
-This project demonstrates *YOLO11n-CLS* trained for an **image classification task**.  
-The task involves classifying images into four categories ( `lightning`, `rain`, `sandstorm`, `snow`).  
+This project demonstrates _YOLO11n-CLS_ trained for an **image classification task**.  
+The task involves classifying images into four categories ( `lightning`, `rain`, `sandstorm`, `snow`).
 
 Dataset Source: [Open Images Dataset – Vehicle Number Plates](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
 
@@ -96,6 +94,7 @@ Dataset Source: [Open Images Dataset – Vehicle Number Plates](https://www.kagg
 ```bash
 pip install -r requirements.txt
 ```
+
 ---
 
 ## ▶️ Run the App
@@ -105,15 +104,18 @@ streamlit run predict.py
 ```
 
 Then open in your browser:
+
 ```
 http://localhost:8501
 ```
+
 ---
 
 ## 🖼️ Workflow
-1. Start the app.  
-2. Upload an image from testimages folder.  
+
+1. Start the app.
+2. Upload an image from testimages folder.
 3. The app:
    - Resizes the image to `400x300` for display.
    - Passes it through the YOLO model.
-   - Shows the uploaded image with predicted class and probability.  
+   - Shows the uploaded image with predicted class and probability.
