@@ -1,6 +1,6 @@
 # 🚗 Object Detection (YOLO)
 
-This project is about a trained _Yolo11n_ model for **vehicle number plate and vehicle detection** and for this project I downloaded the dataset from **Roboflow**.
+This project is about a trained _Yolo11n_ model for **license plate and vehicle detection** and for this project I downloaded the dataset from **Roboflow**.
 
 ---
 
