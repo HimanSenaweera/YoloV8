@@ -117,5 +117,5 @@ http://localhost:8501
 2. Upload an image from testimages folder.
 3. The app:
    - Resizes the image to `400x300` for display.
-   - Passes it through the YOLO model.
+   - Passes it through the YOLO pre-trained model.
    - Shows the uploaded image with predicted class and probability.
