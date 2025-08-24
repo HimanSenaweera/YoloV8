@@ -10,10 +10,6 @@ Annotation Tool: [CVAT (Computer Vision Annotation Tool)](https://www.cvat.ai/)
 
 <p align="center">
   <img src="train_batch0.jpg" width="500"/>
-  <div><strong>Training set</strong></div>
 </p>
-<p align="center">
- <img src="val_batch0_labels.jpg" width="500"/>
-<div><strong>Validation set</strong></div>
-</p>
+
 
