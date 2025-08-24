@@ -38,7 +38,7 @@ This project is about a trained _Yolo11n_ model for **license plate and vehicle 
 This project demonstrates _YOLO11n-CLS_ trained for an **image classification task**.  
 The task involves classifying images into four categories ( `lightning`, `rain`, `sandstorm`, `snow`).
 
-Dataset Source: [Open Images Dataset – Vehicle Number Plates](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
+Dataset Source: [Weather Image Recognition](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
 
 ---
 
