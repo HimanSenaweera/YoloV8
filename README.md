@@ -1,4 +1,4 @@
-# 🚗 Object Detection
+# 🚗 Object Detection (YOLO)
 
 This project is about a trained *Yolo11n* model for **vehicle number plate detection** and for this project I downloaded the dataset and annotated it manually.
 
