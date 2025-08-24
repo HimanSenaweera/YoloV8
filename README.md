@@ -20,3 +20,15 @@ Annotation Tool: [CVAT (Computer Vision Annotation Tool)](https://www.cvat.ai/)
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td style="text-align:center;">
+      <img src="confusion_matrix_normalized.png" width="100%"/>
+      <div><strong>Confusion matrix</strong></div>
+    </td>
+    <td style="text-align:center;">
+      <img src="results.png" width="100%"/>
+      <div><strong>losses</strong></div>
+    </td>
+  </tr>
+</table>
