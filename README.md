@@ -1,6 +1,6 @@
 # 🚗 Object Detection (YOLO)
 
-This project is about a trained _Yolo11n_ model for **vehicle number plate and vehicle detection** and for this project I downloaded the dataset from **Roboflow**.
+This project is about a trained _Yolo11n_ model for **license plate and vehicle detection** and for this project I downloaded the dataset from **Roboflow**.
 
 ---
 
@@ -38,7 +38,7 @@ This project is about a trained _Yolo11n_ model for **vehicle number plate and v
 This project demonstrates _YOLO11n-CLS_ trained for an **image classification task**.  
 The task involves classifying images into four categories ( `lightning`, `rain`, `sandstorm`, `snow`).
 
-Dataset Source: [Open Images Dataset – Vehicle Number Plates](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
+Dataset Source: [Weather Image Recognition](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
 
 ---
 
@@ -117,5 +117,5 @@ http://localhost:8501
 2. Upload an image from testimages folder.
 3. The app:
    - Resizes the image to `400x300` for display.
-   - Passes it through the YOLO model.
+   - Passes it through the YOLO pre-trained model.
    - Shows the uploaded image with predicted class and probability.
