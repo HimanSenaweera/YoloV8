@@ -11,13 +11,13 @@ Annotation Tool: [CVAT (Computer Vision Annotation Tool)](https://www.cvat.ai/)
 
   <tr>
     <td style="text-align:center;">
-      <img src="train_batch0.jpg" alt="Original image" width="100%"/>
+      <img src="train_batch0.jpg" alt="Training batch 1" width="500"/>
       <div><strong>Training set</strong></div>
     </td>
   </tr>
   <tr>
     <td style="text-align:center;">
-      <img src="val_batch0_labels.jpg" alt="Blurred image" width="100%"/>
+      <img src="val_batch0_labels.jpg" alt="Validation batch 1" width="500"/>
       <div><strong>Validation set</strong></div>
     </td>
   </tr>
