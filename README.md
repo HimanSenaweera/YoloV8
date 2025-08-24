@@ -41,6 +41,7 @@ This project demonstrates *YOLO11n-CLS* trained for an **image classification ta
 The task involves classifying images into four categories ( `lightning`, `rain`, `sandstorm`, `snow`).  
 
 Dataset Source: [Open Images Dataset – Vehicle Number Plates](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
+
 ---
 
 ## 👁️ Demo
@@ -74,20 +75,6 @@ Dataset Source: [Open Images Dataset – Vehicle Number Plates](https://www.kagg
 ---
 
 ## ☃️🌧️🌩️ YOLO Image Classifier App
-
-
-<table>
-  <tr>
-    <td style="text-align:center;">
-      <img src="results1.jpg" width="100%"/>
-      <div><strong></strong></div>
-    </td>
-    <td style="text-align:center;">
-      <img src="results2.jpg" width="100%"/>
-      <div><strong></strong></div>
-    </td>
-  </tr>
-</table>
 
 <table>
   <tr>
