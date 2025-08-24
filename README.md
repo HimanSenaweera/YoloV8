@@ -1,6 +1,6 @@
-# 🚗 Object Detection (YOLO) 
+# 🚗 Object Detection
 
-This project is about a trained Yolo11n model for vehicle number plate detection and for this project I downloaded the dataset and annotated it manually.
+This project is about a trained *Yolo11n* model for **vehicle number plate detection** and for this project I downloaded the dataset and annotated it manually.
 
 Dataset Source: [Open Images Dataset – Vehicle Number Plates](https://storage.googleapis.com/openimages/web/visualizer/index.html?type=detection&set=train&c=%2Fm%2F01jfm_)
 
@@ -37,7 +37,7 @@ Annotation Tool: [Computer Vision Annotation Tool](https://www.cvat.ai/)
 ---
 # 🖼️ Image Classification (YOLO)
 
-This project demonstrates **YOLO11n-CLS** trained for an **image classification task**.  
+This project demonstrates *YOLO11n-CLS* trained for an **image classification task**.  
 The task involves classifying images into four categories ( `lightning`, `rain`, `sandstorm`, `snow`).  
 
 Dataset Source: [Open Images Dataset – Vehicle Number Plates](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
