@@ -75,6 +75,7 @@ Dataset Source: [Open Images Dataset – Vehicle Number Plates](https://www.kagg
 
 ## ☃️🌧️🌩️ YOLO Image Classifier App
 
+
 <table>
   <tr>
     <td style="text-align:center;">
@@ -104,8 +105,6 @@ Dataset Source: [Open Images Dataset – Vehicle Number Plates](https://www.kagg
 ---
 
 ## 🧱 Requirements
-Python 3.9+ is recommended.  
-Install dependencies via `requirements.txt`:
 
 ```bash
 pip install -r requirements.txt
