@@ -8,18 +8,20 @@ Annotation Tool: [CVAT (Computer Vision Annotation Tool)](https://www.cvat.ai/)
 ---
 ## 👁️ Demo
 
-<table>
+
   <tr>
     <td style="text-align:center;">
       <img src="train_batch0.jpg" alt="Original image" width="100%"/>
       <div><strong>Training set</strong></div>
     </td>
+  </tr>
+  <tr>
     <td style="text-align:center;">
       <img src="val_batch0_labels.jpg" alt="Blurred image" width="100%"/>
       <div><strong>Validation set</strong></div>
     </td>
   </tr>
-</table>
+
 
 
 <table>
