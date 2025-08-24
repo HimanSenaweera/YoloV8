@@ -71,4 +71,61 @@ Dataset Source: [Open Images Dataset – Vehicle Number Plates](https://www.kagg
   </tr>
 </table>
 
+## ☃️🌧️🌩️ YOLO Image Classifier App
+<table>
+  <tr>
+    <td style="text-align:center;">
+      <img src="results1.jpg" width="100%"/>
+      <div><strong></strong></div>
+    </td>
+    <td style="text-align:center;">
+      <img src="results2.jpg" width="100%"/>
+      <div><strong></strong></div>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="text-align:center;">
+      <img src="results3.png" width="100%"/>
+      <div><strong></strong></div>
+    </td>
+    <td style="text-align:center;">
+      <img src="results4.png" width="100%"/>
+      <div><strong></strong></div>
+    </td>
+  </tr>
+</table>
+
+## 🧱 Requirements
+Python 3.9+ is recommended.  
+Install dependencies via `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+---
+
+## ▶️ Run the App
+
+```bash
+streamlit run predict.py
+```
+
+Then open in your browser:
+```
+http://localhost:8501
+```
+---
+
+## 🖼️ Demo Workflow
+1. Start the app.  
+2. Upload an image from testimages folder.  
+3. The app:
+   - Resizes the image to `400x300` for display.
+   - Passes it through the YOLO model.
+   - Shows the uploaded image with predicted class and probability.  
+---
+
 
